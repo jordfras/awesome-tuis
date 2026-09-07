@@ -154,6 +154,7 @@ There's a lot of cool projects here that I have no association with. Run them at
 - [git-crecord](https://github.com/andrewshadura/git-crecord) interactive selective commit tool
 - [git-scope](https://github.com/Bharath-code/git-scope) Terminal UI dashboard for inspecting multiple local Git repositories.
 - [grv](https://github.com/rgburke/grv) Terminal interface for viewing git repositories
+- [git-tailor](https://github.com/jordfras/git-tailor) An interactive terminal tool for tidying up Git commits on a branch
 - [harlequin](https://github.com/tconbeer/harlequin) The SQL IDE for Your Terminal
 - [hcom](https://github.com/aannoo/hcom) CLI and TUI for real-time messaging, observation, and orchestration between AI coding agents (Claude Code, Antigravity, Codex, OpenCode, Kilo, Cursor) across terminals
 - [heretek](https://github.com/wcampbell0x2a/heretek) GDB TUI Dashboard
